@@ -229,3 +229,7 @@ use `QNetworkAccessManager` which supports proxy, redirections, authentication,
 
 Distributed under the MIT license. Copyright (c) 2014, Amir Zamani.
 
+## Patxitron modification
+
+I'did not modified (yet) the source code. I only added the dependency (http-parser)
+as a git submodule and deleted the script that handles that dependency.
